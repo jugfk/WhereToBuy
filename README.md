@@ -18,11 +18,20 @@
 * [아이씨뱅큐](https://www.icbanq.com/P008186356)
 * [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=330690&category=)
 
-### (5) 젯슨 나노를 위한 라즈베리파이 카메라모듈 V2, 8MP (RPi Camera V2) 고해상도
+### (5) CanaKit Raspberry Pi WiFi Wireless Dongle  (필수)
+* [아마존](http://bitly.kr/9gQ8YTu)
+
+### (6) Logitech C270 Wide Screen HD Webcam (필수)
+* [아마존](http://bitly.kr/sJuONkx)
+
+### (7) 젯슨 나노를 위한 라즈베리파이 카메라모듈 V2, 8MP (RPi Camera V2) 고해상도
 * [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=)
 
 ***
 ### 기타
 
-### 젯슨 나노를 위한 라즈베리파이 어안렌즈 카메라 모듈 (RPi Camera (G), Fisheye Lens)
+### 아두이노 종결키트 (입문자용)  (Arduino Ultimate Kit for Beginners)
+* [메카솔루션](https://bit.ly/34c9RbM)
+
+### 젯슨 나노를 위한 라즈베리파이 어안렌즈(180) 카메라 모듈 (RPi Camera (G), Fisheye Lens)
 * [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71486&category=)
