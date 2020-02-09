@@ -16,3 +16,7 @@
 
 ### 젯슨 나노를 위한 라즈베리파이 어안렌즈 카메라 모듈 (RPi Camera (G), Fisheye Lens)
 * [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71486&category=)
+
+### 마이크로 SD 카드 64GB
+* [디바이스마트](http://www.devicemart.co.kr/goods/view?no=10984066)
+* [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=330690&category=)
