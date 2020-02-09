@@ -12,6 +12,7 @@
 
 ### (3) 젯슨 나노 PWM 제어 냉각팬 (필수)
 * [디바이스마트](http://www.devicemart.co.kr/goods/view?no=12494456)
+* [](https://www.aliexpress.com/i/33047501770.html)
 
 ### (4) 마이크로 SD 카드 64GB (필수)
 * [디바이스마트](http://www.devicemart.co.kr/goods/view?no=10984066)
