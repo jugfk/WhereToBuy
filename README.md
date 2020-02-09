@@ -19,4 +19,5 @@
 
 ### 마이크로 SD 카드 64GB
 * [디바이스마트](http://www.devicemart.co.kr/goods/view?no=10984066)
+* [아이씨뱅큐](https://www.icbanq.com/P008186356)
 * [메카솔루션](http://mechasolution.com/shop/goods/goods_view.php?goodsno=330690&category=)
