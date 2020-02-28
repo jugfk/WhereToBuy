@@ -31,7 +31,7 @@
 ### (7) 젯슨 나노를 위한 라즈베리파이 카메라모듈 V2, 8MP (RPi Camera V2) 고해상도 (필수)
 * [클릭: 메카솔루션(검증됨)](http://mechasolution.com/shop/goods/goods_view.php?goodsno=537776&category=)
 
-### (8) 젯슨 나노 전용 5V 4A KC 인증 아답터 [SZH-PSU05] ()
+### (8) 젯슨 나노 전용 5V 4A KC 인증 아답터 [SZH-PSU05] (필수)
 * [클릭: 디바이스마트(검증됨)](http://www.devicemart.co.kr/goods/view?no=12240663)
 
 ### (9) TC37 - 2.6A 5핀 2포트 분리형 가정용 충전기 (필수)
