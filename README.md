@@ -10,7 +10,7 @@
 * [클릭: 디바이스마트(검증됨)](http://www.devicemart.co.kr/goods/view?no=11869994) (2gb/4gb)
 
 ### (2) 젯슨 나노 전용 5V 4A KC 인증 아답터 (4gb) (필수)
-* [클릭: 디바이스마트](http://www.devicemart.co.kr/goods/view?no=12240663)
+* [클릭: 디바이스마트()](http://www.devicemart.co.kr/goods/view?no=12240663)
 * [클릭: 일본 아마존(검증됨)](https://www.amazon.co.jp/AC%E3%82%A2%E3%83%80%E3%83%97%E3%82%BF%E3%83%BC-%E5%A4%A7%E6%89%8B%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BCOEM%E7%A4%BE%E8%A3%BD%E5%93%81-%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B9-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E5%BC%8F-%E5%87%BA%E5%8A%9B%E3%83%97%E3%83%A9%E3%82%B0%E5%A4%96%E5%BE%845-5mm/dp/B015RKFAA2/ref=pd_rhf_sc_p_img_3?_encoding=UTF8&psc=1&refRID=C7QMT31X3M6GXK52WCP1)
 
 ### (3) 젯슨 나노 전용 5V 3A KC 인증 아답터 (라즈베리파이4 C타입) (2gb) (필수)
