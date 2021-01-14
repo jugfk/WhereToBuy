@@ -5,9 +5,9 @@
 (검증됨: 직접 구매해서 사용해봄)
 
 ### (1) NVIDIA Jetson Nano Developer Kit (2gb, 4gb) (필수)
-* [클릭: 아이씨뱅큐](https://www.icbanq.com/P010404186)
 * [클릭: 한컴 MDS(검증됨)](http://mdsshop.co.kr/product/detail.html?product_no=134&cate_no=1&display_group=6)
 * [클릭: 디바이스마트(검증됨)](http://www.devicemart.co.kr/goods/view?no=11869994) (2gb/4gb)
+* [클릭: 아이씨뱅큐](https://www.icbanq.com/P010404186)
 
 ### (2) 젯슨 나노 전용 5V 4A KC 인증 아답터 (4gb) (필수)
 * [클릭: 디바이스마트()](http://www.devicemart.co.kr/goods/view?no=12240663)
