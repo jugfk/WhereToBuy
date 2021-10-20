@@ -29,7 +29,7 @@
 
 
 ### (6) CanaKit Raspberry Pi WiFi Wireless Dongle  (필수) (2gb, 4gb)
-* [클릭: 아마존(검증됨)](http://bitly.kr/9gQ8YTu)
+* [클릭: 아마존(검증됨)](https://www.amazon.com/-/ko/dp/B00GFAN498/ref=sr_1_3?dchild=1&keywords=CanaKit+Raspberry+Pi+WiFi+Wireless+Dongle&qid=1634710851&sr=8-3)
 
 ### (7) Logitech C270 Wide Screen HD Webcam (필수) (2gb, 4gb)
 * [클릭: 아마존(검증됨)](http://bitly.kr/sJuONkx)
